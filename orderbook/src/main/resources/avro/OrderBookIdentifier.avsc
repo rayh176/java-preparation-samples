@@ -1,0 +1,11 @@
+{
+  "namespace": "com.sc.orderbook.data",
+  "type": "record",
+  "name": "orderBookIdentifier",
+  "fields": [
+    {
+      "name": "id",
+      "type": "long"
+    }
+  ]
+}

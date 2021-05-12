@@ -1,0 +1,12 @@
+{
+  "namespace": "com.sc.orderbook.data",
+  "type": "record",
+  "name": "orderBook",
+  "fields": [
+    {
+      "name": "name",
+      "type": "string",
+      "avro.java.string": "String"
+    }
+  ]
+}
