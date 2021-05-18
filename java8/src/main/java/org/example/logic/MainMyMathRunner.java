@@ -1,4 +1,4 @@
-package org.example.general;
+package org.example.logic;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 import java.util.stream.IntStream;
 
-public class MainRunner {
+public class MainMyMathRunner {
     static class MyMath {
         public static boolean checker(PerformOperation p, int num) {
             return p.check(num);
