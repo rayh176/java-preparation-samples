@@ -1,4 +1,4 @@
-# marketprice
+# Java 11 preparations
 
 ## JDK
 Expected to use JDK 11 or please change the pom xml maven properties to reflect the version you use
